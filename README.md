@@ -17,3 +17,13 @@ This project aims to analyze international product sales data to identify key ma
 * Compared international business models to evaluate performance across different regions.
 * Identified top-performing product categories and seasonal sales trends.
 * Created actionable reports to guide stakeholders in targeted business expansion.
+
+## 📸 Data Pipeline & Visualizations
+Here is a snapshot of the clean data pipeline workflow:
+![Data Pipeline](clean%20data%20pipline%20screenshot.png)
+
+*(Note: The full interactive dashboard is available in the `data_visualization.pbix` file. Please download it and open it with Power BI Desktop to explore.)*
+
+## 🎥 Project Demonstration Video
+I have recorded a complete walkthrough explaining the ETL workflow, data cleaning process, and the final business insights. 
+👉 [Click here to download and watch the Demonstration Video](master_project_demonstration.mp4)
