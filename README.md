@@ -11,7 +11,7 @@ This project aims to analyze international product sales data to identify key ma
 ## ⚙️ Workflow & Methodology
 1. **Data Extraction & Cleaning:** Utilized **Talend Open Studio** to streamline the ETL process, ensuring data accuracy and removing inconsistencies from the raw dataset.
 2. **Data Modeling & Querying:** Managed the structured data in **SQL Server**, writing complex queries to aggregate sales metrics, filter regional performances, and prepare the dataset for visualization.
-3. **Dashboard Creation:** Imported the cleaned data into **Power BI** to build interactive and dynamic dashboards. 
+3. **Dashboard Creation:** Imported the cleaned data into **Power BI** to build interactive and dynamic dashboards.
 
 ## 📊 Key Business Insights
 * Compared international business models to evaluate performance across different regions.
@@ -20,10 +20,11 @@ This project aims to analyze international product sales data to identify key ma
 
 ## 📸 Data Pipeline & Visualizations
 Here is a snapshot of the clean data pipeline workflow:
+
 ![Data Pipeline](clean%20data%20pipline%20screenshot.png)
 
 *(Note: The full interactive dashboard is available in the `data_visualization.pbix` file. Please download it and open it with Power BI Desktop to explore.)*
 
 ## 🎥 Project Demonstration Video
 I have recorded a complete walkthrough explaining the ETL workflow, data cleaning process, and the final business insights. 
-👉 [Click here to download and watch the Demonstration Video](master_project_demonstration.mp4)
+👉 [Click here to watch the Demonstration Video](https://youtu.be/mfHxpOD7PWI)
