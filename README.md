@@ -21,7 +21,7 @@ This project aims to analyze international product sales data to identify key ma
 ## 📸 Data Pipeline & Visualizations
 Here is a snapshot of the clean data pipeline workflow:
 
-![Data Pipeline](clean%20data%20pipline%20screenshot.png)
+![Data Pipeline](https://raw.githubusercontent.com/Tausif3787/Master-Project/main/Master%20Project/clean%20data%20pipline%20screenshot.png)
 
 *(Note: The full interactive dashboard is available in the `data_visualization.pbix` file. Please download it and open it with Power BI Desktop to explore.)*
 
